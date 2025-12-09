@@ -52,7 +52,7 @@ st.markdown("""
 
 # ------------------ Header ------------------ #
 st.markdown("<div class='title-container'> Fake News Classifier</div>", unsafe_allow_html=True)
-st.write("### Detect whether news is **REAL** or **FAKE** using Machine Learning.")
+st.write("### Detect whether news is **REAL** or **FAKE** : ")
 
 # ------------------ User Input ------------------ #
 news_text = st.text_area(
